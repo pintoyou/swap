@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'http://abc.kizunacoin.net',
+    href: 'https://gametokenfi.netlify.app',
   },
   {
     label: 'Trade',
@@ -23,12 +23,12 @@ const config: MenuEntry[] = [
   {
     label: 'Farming',
     icon: 'FarmIcon',
-    href: 'http://abc.kizunacoin.net',
+    href: 'https://gametokenfi.netlify.app',
   },
   {
     label: 'Pools',
     icon: 'PoolIcon',
-    href: 'http://abc.kizunacoin.net/pools',
+    href: 'https://gametokenfi.netlify.app/pools',
   },
   {
     label: 'GameMarket',
