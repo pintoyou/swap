@@ -60,7 +60,7 @@ const config: MenuEntry[] = [
       },
       {
         label: 'Blog',
-        href: 'https://medium.com/@GameToken',
+        href: 'https://medium.com/@GameTokenFi',
       },
     ],
   },
